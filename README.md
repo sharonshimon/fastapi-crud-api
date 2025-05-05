@@ -120,17 +120,3 @@ fastapi-crud-api-new/       # repo root
 
 ---
 
-## 🚫 Excluding the Virtual Environment
-
-Add to `.gitignore`:
-
-```gitignore
-.venv/
-venv/
-```
-
-Remove any tracked venv folder:
-
-```bash
-git rm -r --cached .ve
-```
