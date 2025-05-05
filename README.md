@@ -33,8 +33,8 @@ A simple FastAPI web server that provides RESTful CRUD endpoints for two entitie
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/sharonshimon/fastapi-crud-api-new.git
-   cd fastapi-crud-api-new
+   git clone https://github.com/sharonshimon/fastapi-crud-api.git
+   cd fastapi-crud-api
    ```
 
 2. **Create & activate a virtual environment**
